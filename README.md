@@ -13,12 +13,12 @@
 * BFA Communication Design, Texas State University 2013.
 * Design & Development intern @ Taecho Group, 2013.
 * Lead Designer @ Texas State Campus Recreation Marketing, June 2012 - September 2013.
-* Marketing intern @ Big Concierge, September 2011 - March 2012.
+* Marketing intern @ Big Concierge, September 2011 — March 2012.
 
 ## Skills
 * Web, print, and UI/UX design. 
 * Experienced digital illustrator. 
-* Proficient typographer crafting — mastery of fundamental typesetting and custom webfont development. 
+* Proficient typographer — mastery of fundamental typesetting and experience with custom webfont development. 
 * Utilize version control with Git and Bitbucket. 
 * Responsive design, device-agnostic thinking.
 * Accessibility-minded development.
@@ -26,5 +26,5 @@
 
 ## References
 * Sam Kapila, Lecturer, Design @ Texas State — *kapila@txstate.edu*
-* Michael Way, Lead Developer  @ Taecho Group — *michael@taechogroup.com*
+* Michael Way, Lead Developer  @ Taecho Group — *mike@taechogroup.com*
 * Adam McCombs, Senior Creative @ Taecho Group — *adam@taechogroup.com*
