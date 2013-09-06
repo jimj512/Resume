@@ -11,7 +11,7 @@
 
 ## Experience
 * BFA Communication Design, Texas State University 2013.
-* Design & Development intern @ Taecho Group, 2013.
+* Front End Developer @ Taecho Group, 2013.
 * Lead Designer @ Texas State Campus Recreation Marketing, June 2012 - September 2013.
 * Marketing intern @ Big Concierge, September 2011 — March 2012.
 
@@ -27,4 +27,4 @@
 ## References
 * Sam Kapila, Lecturer, Design @ Texas State — *kapila@txstate.edu*
 * Michael Way, Lead Developer  @ Taecho Group — *mike@taechogroup.com*
-* Adam McCombs, Senior Creative @ Taecho Group — *adam@taechogroup.com*
+* Adam McCombs, CEO @ Taecho Group — *adam@taechogroup.com*
