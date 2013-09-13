@@ -13,7 +13,7 @@
 * BFA Communication Design, Texas State University 2013.
 * Front End Developer @ Taecho Group, 2013.
 * Interactive Design Intern @ Y&R Austin, 2013.
-* Lead Designer @ Texas State Campus Recreation Marketing, 2012 - 2013.
+* Lead Designer @ Texas State Campus Recreation Marketing, 2012 — 2013.
 * Design intern @ Big Concierge, 2011 — 2012.
 
 ## Skills
