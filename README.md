@@ -5,16 +5,21 @@
 * 512-406-1219
 
 ## Overview
-* Communication Designer from Austin, TX.
-* Can speak HTML, CSS, SASS, and a good bit of PHP. 
+* BFA Communication Design, Texas State University — 2013.
+* Can speak HTML, CSS, and enough PHP to be dangerous.
 * Three years of freelance and agency experience.
 
 ## Experience
-* BFA Communication Design, Texas State University 2013.
 * Front End Developer @ Taecho Group, 2013.
+	Worked with clients such as Circuit of the Americas developing 
+	responsive web applications and web sites.
 * Interactive Design Intern @ Y&R Austin, 2013.
-* Lead Designer @ Texas State Campus Recreation Marketing, 2012 — 2013.
-* Design intern @ Big Concierge, 2011 — 2012.
+	Designed and developed web tools and interactive infographs for Dell.
+* Lead Designer @ Texas State Campus Recreation Marketing, 2012—2013.
+	Directed marketing campaigns for 5k’s and recreational events.
+* Design intern @ Big Concierge, 2011—2012.
+	Designed and developed  ad campaigns for local Austin businesses
+
 
 ## Skills
 * Web, print, and UI/UX design. 
@@ -27,5 +32,5 @@
 
 ## References
 * Sam Kapila, Lecturer, Design @ Texas State — *kapila@txstate.edu*
-* Michael Way, Lead Developer  @ Taecho Group — *mike@taechogroup.com*
+* David Romero, Assoc. Creative Director @ Y&R Austin — *david.romero@yr.com*
 * Adam McCombs, CEO @ Taecho Group — *adam@taechogroup.com*
