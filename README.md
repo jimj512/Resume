@@ -33,4 +33,5 @@
 ## References
 * Sam Kapila, Lecturer, Design @ Texas State — *kapila@txstate.edu*
 * David Romero, Assoc. Creative Director @ Y&R Austin — *david.romero@yr.com*
+* Brian Bravo, User Interface Developer @ Spiceworks — *brianbravo@me.com*
 * Adam McCombs, CEO @ Taecho Group — *adam@taechogroup.com*
